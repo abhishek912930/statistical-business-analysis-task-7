@@ -1,0 +1,17 @@
+
+HYPOTHESIS TEST RESULTS
+
+1. One Sample T-Test
+H0: Average sales = 100000
+T-statistic: 2.3612
+P-value: 0.020172
+
+2. Independent T-Test (East vs West)
+H0: Mean sales are equal
+T-statistic: 2.0623
+P-value: 0.045479
+
+3. ANOVA Test by Product
+H0: Mean sales across products are equal
+F-statistic: 2.0508
+P-value: 0.093428
